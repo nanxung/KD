@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    >
+    <group android:checkableBehavior="single"
+        >
+    <item
+        android:title="名字:金正恩"/>
+    <item
+        android:title="性别:男"/>
+    <item
+        android:title="职业:朝鲜主席"/>
+        <item
+            android:title="简介:现任朝鲜最高领导人，朝鲜民主主"/>
+        <item
+            android:title="义人民共和国元帅，朝鲜劳动党委员长,"></item>
+        <item
+            android:title="朝鲜劳动党中央军事委员会委员长。"></item>
+    </group>
+</menu>
